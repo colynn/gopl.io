@@ -38,11 +38,6 @@ const (
 
 type lconfig struct {
 	Cycles int
-	Res    float64
-	Freq   float64
-	Size   int
-	Frames int
-	Delay  int
 }
 
 func main() {
