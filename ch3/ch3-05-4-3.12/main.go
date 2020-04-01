@@ -9,7 +9,7 @@ import (
 练习 3.12： 编写一个函数，判断两个字符串是否是相互打乱的，
 也就是说它们有着相同的字符，但是对应不同的顺序。
 
-https://github.com/colynn/gopl-zh.github.com/blob/master/ch3/ch3-05-4.md
+https://github.com/gopl-zh/gopl-zh.github.com/blob/master/ch3/ch3-05-4.md
 
 */
 

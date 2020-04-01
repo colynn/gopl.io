@@ -9,7 +9,7 @@ import (
 /*
 练习 3.11： 完善comma函数，以支持浮点数处理和一个可选的正负号的处理。
 
-https://github.com/colynn/gopl-zh.github.com/blob/master/ch3/ch3-05-4.md
+https://github.com/gopl-zh/gopl-zh.github.com/blob/master/ch3/ch3-05-4.md
 
 // comma inserts commas in a non-negative decimal integer string.
 func comma(s string) string {

@@ -8,7 +8,7 @@ import (
 /*
 练习 3.10： 编写一个非递归版本的comma函数，使用bytes.Buffer代替字符串链接操作。
 
-https://github.com/colynn/gopl-zh.github.com/blob/master/ch3/ch3-05-4.md
+https://github.com/gopl-zh/gopl-zh.github.com/blob/master/ch3/ch3-05-4.md
 
 // comma inserts commas in a non-negative decimal integer string.
 func comma(s string) string {

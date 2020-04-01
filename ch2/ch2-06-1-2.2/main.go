@@ -4,7 +4,7 @@
 如果缺省的话则是从标准输入读取参数，然后做类似Celsius和Fahrenheit的单位转换，
 长度单位可以对应英尺和米，重量单位可以对应磅和公斤等。
 
-https://github.com/colynn/gopl-zh.github.com/blob/master/ch2/ch2-06-1.md
+https://github.com/gopl-zh/gopl-zh.github.com/blob/master/ch2/ch2-06-1.md
 
 */
 package main

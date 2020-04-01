@@ -5,7 +5,7 @@ import "fmt"
 /*
 练习 4.3： 重写reverse函数，使用数组指针代替slice。
 
-https://github.com/colynn/gopl-zh.github.com/blob/master/ch4/ch4-02-2.md
+https://github.com/gopl-zh/gopl-zh.github.com/blob/master/ch4/ch4-02-2.md
 
 //!+rev  origin reverse func
 // reverse reverses a slice of ints in place.

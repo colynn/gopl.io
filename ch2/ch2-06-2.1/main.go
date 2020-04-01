@@ -1,5 +1,5 @@
 /*
-https://github.com/colynn/gopl-zh.github.com/blob/master/ch2/ch2-06.md
+https://github.com/gopl-zh/gopl-zh.github.com/blob/master/ch2/ch2-06.md
 
 练习题：tempconv ，使用示例。
 */

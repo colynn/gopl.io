@@ -3,7 +3,7 @@ package main
 /*
 练习 3.13： 编写KB、MB的常量声明，然后扩展到YB。
 
-https://github.com/colynn/gopl-zh.github.com/blob/master/ch3/ch3-06-1.md
+https://github.com/gopl-zh/gopl-zh.github.com/blob/master/ch3/ch3-06-1.md
 
 */
 
